@@ -1,0 +1,20 @@
+Name: Tanishka Yagneshwar
+Roll no.: 2110110544
+
+Activity Diagram
+
+Laundry Management System
+
+Link: https://online.visual-paradigm.com/community/share/activity-diagram-laundry-vpd-1nruc5kz7t
+
+Actors:
+1)Student
+2)Admin
+
+Activities:
+
+Users (students and admins) start by logging in.
+Students can access their portal to perform various actions such as giving new laundry, viewing laundry status, messaging admin, writing complaints, and viewing announcements.
+Admins can access their dashboard to perform actions such as viewing all laundry, updating laundry status, sending announcements, messaging students, and viewing complaints.
+Both students and admins can access the lost & found portal to post or view lost and found items.
+The process ends when users log out or close the session.
