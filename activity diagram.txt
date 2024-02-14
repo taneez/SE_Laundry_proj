@@ -5,6 +5,7 @@ Activity Diagram
 
 Laundry Management System
 
+GitHub: https://github.com/taneez/SE_Laundry_proj/blob/main/laundry%20activity%20diagram.png
 Link: https://online.visual-paradigm.com/community/share/activity-diagram-laundry-vpd-1nruc5kz7t
 
 Actors:
